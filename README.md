@@ -1,4 +1,4 @@
-# Project 3 - Digital Marketing Home Page
+# Project 4 - Digital Marketing Home Page
 
 ## Developed By  
 Saurabh Singh Negi
